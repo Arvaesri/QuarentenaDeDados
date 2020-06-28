@@ -1,2 +1,2 @@
 # QuarentenaDeDados
-Semana de aprendizado focado em ciencia de dados com Python
+Semana focada em ciencia de dados com Python
